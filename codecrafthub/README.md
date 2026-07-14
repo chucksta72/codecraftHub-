@@ -1,3 +1,4 @@
+#README
 CodeCraftHub - Beginner Flask REST API with JSON file storage
 CodeCraftHub is a tiny, beginner-friendly learning project to build a simple REST API using Python and Flask. It stores course data in a JSON file (no database) and provides basic CRUD operations so developers can learn how REST endpoints work, how to validate input, and how to read/write data from disk.
 
